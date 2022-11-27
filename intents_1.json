@@ -1,4 +1,4 @@
-{
+pr{
         "intents": [
                 {
                         "tag": "greeting",
@@ -345,7 +345,8 @@
                                 "how many libraries"
                         ],
                         "responses": [
-                                "Willis Library,Media Library,Sycamore Library,Discovery Park Library"
+                                "Willis Library,Media Library,Sycamore Library,Discovery Park Library",
+                                "for more info you can https://library.unt.edu/"
                         ],
                         "context_set": ""
                 },
@@ -392,7 +393,8 @@
                                 "admission process"
                         ],
                         "responses": [
-                                "Application can also be submitted online through the Unversity's"
+                                "Application can also be submitted online through the Unversity's",
+                                "you can find more info in https://admissions.unt.edu/"
                         ],
                         "context_set": ""
                 },
@@ -457,7 +459,8 @@
                                 "how long will be the vacation"
                         ],
                         "responses": [
-                                "Please refer academic calendar"
+                                "Please refer academic calendar",
+                                "you can find more info in https://calendar.unt.edu/"
                         ],
                         "context_set": ""
                 },
@@ -494,8 +497,8 @@
                                 "why i should use you"
                         ],
                         "responses": [
-                                "I can answer to low-intermediate questions regarding college",
-                                "You can ask me questions regarding college, and i will try to answer them"
+                                "I can answer to low-intermediate questions regarding University",
+                                "You can ask me questions regarding university, and i will try to answer them"
                         ],
                         "context_set": ""
                 },
@@ -513,7 +516,8 @@
 
                         ],
                         "responses": [
-                                "We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging"
+                                "We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging",
+                                "you can find more info https://studentaffairs.unt.edu/hazing/violations"
                         ]
 
                 },
@@ -530,7 +534,8 @@
 
                         ],
                         "responses":[
-                                "unt had DCTA"
+                                "unt had DCTA",
+                                "you can find more info in https://transportation.unt.edu/"
                         ]
                 }
 

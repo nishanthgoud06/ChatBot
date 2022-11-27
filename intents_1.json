@@ -1,4 +1,4 @@
-pr{
+{
         "intents": [
                 {
                         "tag": "greeting",
